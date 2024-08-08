@@ -1,6 +1,6 @@
 ---
-title: Integrating Key Vault with DigiCert certificate authority
-description: This article describes how to integrate Key Vault with DigiCert certificate authority so you can provision, manage, and deploy certificates for your network.
+title: Integrating Key Vault with Integrated Certificate Authorities
+description: This article describes how to integrate Key Vault with Integrated Certificate Authorities so you can provision, manage, and deploy certificates for your network.
 services: key-vault
 author: msmbaldwin
 
@@ -45,8 +45,6 @@ Make sure you have the following information from your DigiCert CertCentral acco
 -	CertCentral account ID
 -	Organization ID
 -	API key
--   Account ID
--   Account Password
 
 #### GlobalSign
 
